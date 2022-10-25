@@ -1,0 +1,10 @@
+learning/train_log
+*__pycache__*
+.idea
+crazyflie_mujoco.egg*
+hook_up_scenario/videos/*
+!hook_up_scenario/videos/ffmpeg*
+assets/rope.xml
+/assets/half_yoyo.stl
+hook_up_scenario/hook_scenario_4_dummy.xml
+hook_up_scenario/hook_up_4_dummy.py
